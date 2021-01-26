@@ -1,0 +1,43 @@
+.header {
+    font-family: "Roboto";
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.previewer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+textarea {
+    width: 400px;
+    height: 400px;
+    font-size: 1.25rem;
+}
+
+.output {
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    background-color: lavender;
+}
+
+@media only screen and (max-width: 600px) {
+    .header {
+        font-size: 2rem;
+    }
+    .previewer {
+        flex-direction: column;
+        justify-content: center;
+    }
+    textarea,
+    .output {
+        width: 300px;
+        height: 300px;
+        margin: 5px auto;
+    }
+}
