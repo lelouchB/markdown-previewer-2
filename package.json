@@ -41,10 +41,7 @@
         "type": "git",
         "url": "git+https://github.com/lelouchB/markdown-previewer-2.git"
     },
-    "keywords": ["next image gallery"],
     "bugs": {
         "url": "https://github.com/lelouchB/markdown-previewer-2/issues"
     },
-    "homepage": "https://github.com/lelouchB/markdown-previewer-2#readme"
-
 }
