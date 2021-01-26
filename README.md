@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/FyKEr94.png)
+![Imgur](https://i.imgur.com/FyKEr94.png)
 
 ### Markdown Previewer made with React.js and Marked.js
 
